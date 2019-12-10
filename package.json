@@ -1,0 +1,23 @@
+{
+  "name": "mozes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dedekind561/mentor_meetings.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dedekind561/mentor_meetings/issues"
+  },
+  "homepage": "https://github.com/Dedekind561/mentor_meetings#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
